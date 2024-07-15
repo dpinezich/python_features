@@ -4,3 +4,6 @@ def greet(name):
             print("Hi David")
         case _:
             print("Hi Stranger")
+
+greet("David")
+greet("Roger")
